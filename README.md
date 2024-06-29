@@ -1,6 +1,6 @@
 Thrilled to have you here!
 
-🌟 I’m an enthusiastic Software Developer (SDE) currently in my pre-final year of B.Tech in Computer Science and Engineering. Grateful for the learning journey so far and excited about the future opportunities in software development.
+🌟 I’m an enthusiastic aspiring Software Developer (SDE) currently in my pre-final year of B.Tech in Computer Science and Engineering. Grateful for the learning journey so far and excited about the future opportunities in software development.
 
 🖥️ My project experience includes working with a tech stack comprising Android Development in Flutter using Dart , React JS , Firebase , MongoDb. These projects have sharpened my skills in building both web and mobile applications that are efficient and user-centric.
 
