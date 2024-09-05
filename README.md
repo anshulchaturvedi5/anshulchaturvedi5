@@ -16,4 +16,4 @@ Let’s connect and create something amazing together! 🚀✨
 [Instagram](https://www.instagram.com/_anshulchaturvedi_/) | [LinkedIn](https://www.linkedin.com/in/anshulchaturvedi5/)
 
 💻 Tech Stack:
-C | C++ | HTML5 | CSS3 | Big Data| React.js | MongoDB | FireBase | Flutter | NodeJS | Apache Kafka | Android | GIT
+C | C++ | HTML5 | CSS3 | Big Data| React.js | MongoDB | FireBase | Flutter | Kotlin | Jetpack | NodeJS | Apache Kafka | Android | GIT
